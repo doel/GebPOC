@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.swa.qa.automation.page.FlightSearchPageIT" tests="1" skipped="0" failures="1" errors="0" timestamp="2018-08-09T07:22:01" hostname="QPaaSICNV1499" time="24.329">
+  <properties/>
+  <testcase name="SouthWest Flight Search Oneway" classname="com.swa.qa.automation.page.FlightSearchPageIT" time="24.329">
+    <failure message="Condition not satisfied:&#10;&#10;clickToPrice()&#10;|&#10;null&#10;" type="org.spockframework.runtime.ConditionNotSatisfiedError">Condition not satisfied:
+
+clickToPrice()
+|
+null
+
+	at com.swa.qa.automation.page.FlightSearchPageIT.SouthWest Flight Search Oneway(FlightSearchPageIT.groovy:36)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 13494
+Only local connections are allowed.
+Aug 09, 2018 12:52:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
